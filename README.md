@@ -6,11 +6,10 @@ Team members:
 
 - Student 1 [Rei](mailto:rsanchezarias@floridapoly.edu)
 
-- Student 2 [Student 2](mailto:student2@floridapoly.edu)
+- Student 2 [Jasmine](jwilliams8080@floridapoly.edu)
 
-- Student 3 [Student 3](mailto:student3@floridapoly.edu)
+- Student 3 [Xavier](xmoore7867@floridapoly.edu)
 
 
-Our project investigates the main characteristics of popular movies in recent years.
-We will be using the data available at: 
-<https://github.com/reisanar/datasets/blob/master/IMDB_movies.csv> 
+Our Project was to investigate trends in the Digital Distribution Service Pateron to determine the best way to succeed in using the service:
+https://www.kaggle.com/thomaskonstantin/top-1000-patreons
